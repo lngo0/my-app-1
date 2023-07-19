@@ -19,10 +19,10 @@
       "reminder": false
     },
     {
-      "id": 4,
-      "text": "Test Water",
-      "day": "May 7th at 13:30pm",
-      "reminder": false
+      "text": "Lawn Care",
+      "day": "May 13th at 8:30am",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
